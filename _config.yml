@@ -1,11 +1,11 @@
 title: 王祎 #博客标题
 description: 洞察技术本质，享受科技乐趣 #博客描述
 keywords: blog,css,html,php #博客关键字
-author: "Link"
+author: "https://www.zhihu.com/people/wang-yi-57-81/activities"
 
 #title hide and show
-hide: (つェ⊂)我藏好啦
-show: ´∇｀ 呀被发现啦~ 
+hide: 点开 ！
+show: 王祎
 
 baseurl: "" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
 url: "hydrogen.atlinker.cn" # change this to the base hostname & protocol for your site
