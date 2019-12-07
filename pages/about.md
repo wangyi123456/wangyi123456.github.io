@@ -1,12 +1,12 @@
 ---
 layout: page
-title: about
+title: 我的信息
 tagline: 关于我 ~
 sitetime: display
 permalink: /about.html
 ---
 
-## #作者
+## 作者
 
 你可以通过以下方式联系博主
 

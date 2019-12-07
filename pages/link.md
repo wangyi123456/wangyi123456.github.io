@@ -1,17 +1,11 @@
 ---
 layout: page
-title: Links
-tagline: My friends.
+title: 操作系统
+tagline: learn later
 permalink: /links.html
 ---
 
-
-{% for f in site.data.friends %}
-<div class="link-chip">
- <img alt="{{f.describe}}" src="{{f.image}}" class="link-chip-icon">
- <a title="{{f.describe}}" target="_blank" class="link-chip-title" href="{{f.url}}">{{f.name}}</a>
-</div>
-{% endfor %}
+**转身，一缕冷香远，逝雪深，笑意浅。来世你渡我，可愿？**
 
 [返回主页]({{ site.url }})
 
