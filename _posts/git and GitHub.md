@@ -16,7 +16,7 @@
 
 - ssh-keygen -t rsa -C “1369799720@qq.com”(随后将micro秘钥添加至该GitHub)
 - git remote add origin git@github.com:*wangyi123456*/learngit
-- git push -u origin master (第一次需要-u，以后就不需要了)
+- git push -u origin main (第一次需要-u，以后就不需要了)
 - **拉取远程仓库** git clone git@github.com:wangyi123456/python_data_structures_and_algorithms
 
 ## 3 错误处理

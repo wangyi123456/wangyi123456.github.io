@@ -165,6 +165,10 @@ public class myRunnable{
 - Thread是实现了 Runnable接口的类，使得run支持多线程
 - 因类的单一继承原则，推荐多使用 Runnable接口
 
+#### start和run区别
+
+![image-20210412155718044](E:\nutstore\md\java 多线程.assets\image-20210412155718044.png)
+
 ### 如何处理线程返回值
 
 ![image-20201116204317388](C:\Users\37779\AppData\Roaming\Typora\typora-user-images\image-20201116204317388.png)
